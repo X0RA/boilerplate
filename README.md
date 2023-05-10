@@ -1,4 +1,4 @@
-[sammy-site-2bbxqy18b-x0ra.vercel.app](sammy-site-2bbxqy18b-x0ra.vercel.app)
+[https://sammy-site-2bbxqy18b-x0ra.vercel.app](https://sammy-site-2bbxqy18b-x0ra.vercel.app)
 
 # Getting Started with Create React App
 
