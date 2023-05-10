@@ -1,5 +1,5 @@
 import { Outlet, Link } from "react-router-dom";
-import Navigation from "../components/navigation";
+import Navigation from "../components/left-top-nav";
 
 export default function Root() {
     return (

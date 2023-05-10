@@ -1,5 +1,3 @@
-import Navigation from "../components/vertical_navigation";
-
 function Home() {
     return (
         <div>
