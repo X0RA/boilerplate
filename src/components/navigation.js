@@ -8,7 +8,7 @@ const Navigation = () => {
             <div className="px-4 py-5 text-center">
                 <h1 className="text-white font-bold text-lg uppercase">My Website</h1>
             </div>
-            <div className="px-4 py-6 flex flex-col justify-center items-center">
+            <div className="px-4 py-6 flex flex-col">
                 <ul>
                     {links.map((link, i) => (
                         <li key={i}>
